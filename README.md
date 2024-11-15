@@ -5,7 +5,7 @@ Preview screenshot
 
 * * *
 
-![coaching3](https://github.com/user-attachments/assets/6d3d8f74-546f-4636-9cce-4dcdf5cb3754)
+![coaching3](https://github.com/user-attachments/assets/b278f1ea-8dca-4a09-b0f4-fa9398644146)
 
 * * *
 
@@ -39,4 +39,4 @@ CSS(TAILWINDCSS)
 
 * * *
 
-[DEMO]( https://alisabouri68.github.io/responsive2-/)
+[DEMO]( https://alisabouri68.github.io/a/)
